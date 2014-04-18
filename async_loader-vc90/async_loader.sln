@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{BBFB6FC4-765D-4C0D-A3AB-4B183AF31B64}") = "async_loader", "async_loader.vcproj", "{0070869A-82AE-4F54-A43B-13E7B86AF2B2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0070869A-82AE-4F54-A43B-13E7B86AF2B2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{0070869A-82AE-4F54-A43B-13E7B86AF2B2}.Debug|Win32.Build.0 = Debug|Win32
+		{0070869A-82AE-4F54-A43B-13E7B86AF2B2}.Release|Win32.ActiveCfg = Release|Win32
+		{0070869A-82AE-4F54-A43B-13E7B86AF2B2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
